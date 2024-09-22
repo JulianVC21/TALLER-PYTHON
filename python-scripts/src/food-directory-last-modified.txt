@@ -1,0 +1,20 @@
+Directory: ..\food
+Subdirectory: fruits
+Subdirectory: vegetables
+
+Directory: ..\food\fruits
+Subdirectory: apples
+Subdirectory: oranges
+File: 2024-09-17 23.52.42.882386_banana.txt
+File: 2024-09-17 23.52.42.895648_strawberry.txt
+File: 2024-09-17 23.52.42.896659_blueberry.txt
+
+Directory: ..\food\fruits\apples
+File: 2024-09-17 23.52.42.897744_honeycrisp.txt
+
+Directory: ..\food\fruits\oranges
+File: 2024-09-17 23.52.42.900769_mandarin.txt
+
+Directory: ..\food\vegetables
+File: 2024-09-17 23.52.42.903797_carrot.txt
+
